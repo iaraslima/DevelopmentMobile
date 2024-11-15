@@ -1,0 +1,25 @@
+- Criar um Projeto Novo
+    - No Android Studio, crie um novo projeto Android usando Kotlin.
+    - Nomeie o projeto como LifecycleDemo.
+
+- Configurar a MainActivity
+    - Abra o arquivo MainActivity.kt. Esse será o código onde será implementado o ciclo de vida da Activity.
+
+
+- Implementar o Ciclo de Vida
+    - Adicione o código para exibir mensagens de log e Toast em cada método do ciclo de vida.
+    - Cada método terá uma mensagem que indica quando ele é chamado.
+
+- Executar no Emulador ou Dispositivo:
+    - Execute o aplicativo e observe os Toast e as mensagens de log no Logcat à medida que a Activity passa por diferentes estados.
+
+
+- Minimize o aplicativo para acionar onPause e onStop.
+- Retorne ao aplicativo para observar a execução de onStart e onResume.
+- Feche o aplicativo para acionar onDestroy.
+
+
+- Reflexão
+  - Esses métodos são úteis para gerenciar dados do usuário e liberar recursos ao sair da Activity.
+  - A sequência de execução dos métodos ajuda a entender como Android gerencia as Activities e
+  permite configurar o aplicativo para responder adequadamente a cada estado.
