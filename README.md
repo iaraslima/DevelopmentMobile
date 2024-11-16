@@ -6,18 +6,22 @@ Códigos executados durante a disciplina Desenvolvimento de Software para Dispos
 ## Exercícios Práticos 📝📱
 
 Atividade 1 - [Ciclo de vida de uma aplicaçãoTarefa](https://github.com/iaraslima/DevelopmentMobile/tree/master/LifecycleDemo)
+
 Atividade 2 - LayoutApp
+
 Atividade 3 - [Menu três pontinhosTarefa](https://github.com/iaraslima/DevelopmentMobile/tree/master/Menu)
+
 Atividade 4 - [ProfileApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/ProfileApp)
+
 Atividade 5 - [CounterApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/CounterApp)
 
 ***
 
-<p align="center">UNIVERSIDADE FEDERAL DO CEARÁ</p>
+<h4 align="center">UNIVERSIDADE FEDERAL DO CEARÁ</h4>
 
-<h2 align="center">Nome</h2>
+<h4 align="center">Aluna: Iara</h4>
 
-<h2 align="center">Professor</h2>
+<h4 align="center">Professor: Victor Pinheiro</h4>
 
-<h2 align="center">Semestre</h2>
+<h4 align="center">2024.2</h4>
 
