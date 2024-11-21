@@ -38,8 +38,8 @@ fun CounterApp(){
 
     Column (horizontalAlignment = Alignment.CenterHorizontally,
                 modifier = Modifier
-                .fillMaxSize()
-                .padding(16.dp),
+                    .fillMaxSize()
+                    .padding(16.dp),
         verticalArrangement = Arrangement.Center
     ) {
         Text (
@@ -99,7 +99,7 @@ fun CounterApp(){
             Button(
                 onClick = {
                     val value = input.toDoubleOrNull() ?: 1.0
-                    if(value != 0.0) {
+                    if (value != 0.0){
                         result /= value
                     }
                     input = ""
@@ -114,6 +114,23 @@ fun CounterApp(){
 
         Button(
             onClick = {
+                val value = input.toDoubleOrNull() ?: 1.0
+                if (value % 1 == 0.0 && value.toInt() % 2 != 0){
+                    input = "Ímpar"
+                }
+                else{
+                    input = "Par"
+                }
+            },
+            modifier = Modifier.fillMaxWidth()
+        ){
+            Text("Par ou Ímpar")
+        }
+
+        Spacer(modifier = Modifier.height(16.dp))
+
+        Button(
+            onClick = {
                 result = 0.0
                 input = ""
             },
@@ -121,5 +138,7 @@ fun CounterApp(){
         ){
             Text("Limpar")
         }
+
+
     }
 }
