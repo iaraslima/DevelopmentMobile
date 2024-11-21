@@ -7,7 +7,8 @@ Códigos executados durante a disciplina Desenvolvimento de Software para Dispos
 
 Atividade 1 - [Ciclo de vida de uma aplicação](https://github.com/iaraslima/DevelopmentMobile/tree/master/LifecycleDemo)
 
-Atividade 2 - LayoutApp
+Atividade 2 - [LayoutApp]
+(https://github.com/iaraslima/DevelopmentMobile/tree/master/LayoutApp)
 
 Atividade 3 - [Menu três pontinhos](https://github.com/iaraslima/DevelopmentMobile/tree/master/Menu)
 
