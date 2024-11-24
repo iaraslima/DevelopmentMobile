@@ -15,8 +15,7 @@ Atividade 4 - [ProfileApp](https://github.com/iaraslima/DevelopmentMobile/tree/m
 
 Atividade 5 - [CounterApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/CounterApp)
 
-Atividade 6 - [AnimalApp]
-(https://github.com/iaraslima/DevelopmentMobile/tree/master/AnimalApp)
+Atividade 6 - [AnimalApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/AnimalApp)
 
 ***
 
