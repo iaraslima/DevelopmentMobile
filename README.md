@@ -15,6 +15,9 @@ Atividade 4 - [ProfileApp](https://github.com/iaraslima/DevelopmentMobile/tree/m
 
 Atividade 5 - [CounterApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/CounterApp)
 
+Atividade 6 - [AnimalApp]
+(https://github.com/iaraslima/DevelopmentMobile/tree/master/AnimalApp)
+
 ***
 
 <h4 align="center">Universidade Federal do Ceará</h4>
