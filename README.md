@@ -17,6 +17,8 @@ Atividade 5 - [CounterApp](https://github.com/iaraslima/DevelopmentMobile/tree/m
 
 Atividade 6 - [AnimalApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/AnimalApp)
 
+Atividade 7 - [ZooApp - aplicação com animais de A a Z em português com tradução para inglês](https://github.com/iaraslima/DevelopmentMobile/tree/master/ZooApp)
+
 ***
 
 <h4 align="center">Universidade Federal do Ceará</h4>
