@@ -17,7 +17,9 @@ Atividade 5 - [CounterApp](https://github.com/iaraslima/DevelopmentMobile/tree/m
 
 Atividade 6 - [AnimalApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/AnimalApp)
 
-Atividade 7 - [ZooApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/ZooApp): Aplicação com animais de A a Z em português com tradução para inglês -
+Atividade 7 - [ZooApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/ZooApp): <h6>Aplicação com animais de A a Z em português com tradução para inglês</h6>
+
+Atividade 8 - [PlanetApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/PlanetApp)
 
 ***
 
