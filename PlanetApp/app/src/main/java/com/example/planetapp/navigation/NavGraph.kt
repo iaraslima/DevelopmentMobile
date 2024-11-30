@@ -15,7 +15,6 @@ import com.example.planetapp.ui.components.BottomNavigationBar
 import com.example.planetapp.ui.screens.DetailsScreen
 import com.example.planetapp.ui.screens.FavoritesScreen
 import com.example.planetapp.ui.screens.HomeScreen
-//import androidx.navigation.compose.composable
 import androidx.navigation.compose.composable
 
 // Classe representando os itens da Bottom Bar

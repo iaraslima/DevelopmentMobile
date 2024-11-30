@@ -38,8 +38,8 @@ fun TopAppBarWithMenu(
     TopAppBar(
         title = {
             Row(verticalAlignment = Alignment.Top) {
-                Image(
-                    painter = painterResource(id = R.drawable.icon),
+                Image( //@mipmap/ic_launcher_foreground
+                    painter = painterResource(id = R.mipmap.ic_launcher_foreground),
                     contentDescription = "App Logo",
                     modifier = Modifier
                         .size(30.dp)
