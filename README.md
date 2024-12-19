@@ -27,9 +27,11 @@ Atividade 9 - [NightEventsApp](https://github.com/iaraslima/DevelopmentMobile/tr
 
 ## Trabalho I 📱📓✅
 
+[Aprova Aí](https://github.com/Mariana-Pereiraa/Aprova-Ai)
+
 Trabalho realizado em conjunto com [Mariana Pereira](https://github.com/Mariana-Pereiraa)
 
-[Aprova Aí](https://github.com/Mariana-Pereiraa/Aprova-Ai)
+***
 
 <h4 align="center">Universidade Federal do Ceará</h4>
 
