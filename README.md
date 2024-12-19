@@ -21,7 +21,14 @@ Atividade 7 - [ZooApp](https://github.com/iaraslima/DevelopmentMobile/tree/maste
 
 Atividade 8 - [PlanetApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/PlanetApp)
 
+Atividade 9 - [NightEventsApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/NightEventsApp)
+
 ***
+
+## Trabalho I 📱📓✅
+
+Trabalho realizado em conjunto com [Mariana Pereira](https://github.com/Mariana-Pereiraa)
+[Aprova Aí](https://github.com/Mariana-Pereiraa/Aprova-Ai)
 
 <h4 align="center">Universidade Federal do Ceará</h4>
 
