@@ -25,6 +25,8 @@ Atividade 9 - [NightEventsApp](https://github.com/iaraslima/DevelopmentMobile/tr
 
 Atividade 10 - [AlarmApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/AlarmApp)
 
+Atividade 11 - [TasksManagerApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/TaskManagerApp)
+
 ***
 
 ## Trabalho I 📱📓✅
