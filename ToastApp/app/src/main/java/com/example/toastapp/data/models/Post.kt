@@ -1,6 +1,6 @@
 package com.example.toastapp.data.models
 
-data class Post (
+data class Post(
     val id: Int,
     val title: String,
     val content: String,

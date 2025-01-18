@@ -1,5 +1,8 @@
 package com.example.toastapp.data
 
+import retrofit2.Retrofit
+import retrofit2.converter.gson.GsonConverterFactory
+
 object RetrofitInstance {
     private const val BASE_URL = "https://my-api-0362.onrender.com/"
 
@@ -7,7 +10,8 @@ object RetrofitInstance {
         Retrofit.Builder()
             .baseUrl(BASE_URL)
             .addConverterFactory(GsonConverterFactory.create())
-            .build
+            .build()
             .create(ApiService::class.java)
     }
+
 }
