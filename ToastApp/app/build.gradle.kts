@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.apppost"
+    namespace = "com.example.toastapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.apppost"
+        applicationId = "com.example.toastapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
