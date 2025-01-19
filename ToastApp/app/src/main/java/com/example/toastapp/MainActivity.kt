@@ -10,6 +10,7 @@ import androidx.compose.material.icons.filled.List
 import androidx.compose.material.icons.filled.Person
 import androidx.compose.runtime.*
 import androidx.compose.ui.graphics.Color
+import com.example.toastapp.ui.theme.ToastAppTheme
 import com.example.toastapp.ui.screens.PostScreen // Tela de posts
 import com.example.toastapp.ui.screens.UserScreen // Tela de usuários
 
@@ -18,7 +19,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            MainScreen() // Configura a tela principal da aplicação
+            ToastAppTheme{MainScreen()} // Configura a tela principal da aplicação}
         }
     }
 }
@@ -34,9 +35,9 @@ fun MainScreen() {
         // Barra superior com título
         topBar = {
             TopAppBar(
-                title = { Text("Toast") }, // Título exibido na barra superior
-                backgroundColor = MaterialTheme.colors.primary, // Cor de fundo
-                contentColor = Color.White // Cor do texto e ícones
+                title = { Text("brinde") }, // Título exibido na barra superior
+                backgroundColor = Color.White, // Cor de fundo
+                contentColor = MaterialTheme.colors.primarySurface // Cor do texto e ícones
             )
         },
         // Barra de navegação inferior
@@ -52,7 +53,7 @@ fun MainScreen() {
                 // Item de navegação para a tela de posts
                 BottomNavigationItem(
                     icon = { Icon(Icons.Default.List, contentDescription = "Posts") }, // Ícone de lista
-                    label = { Text("Posts") }, // Rótulo "Posts"
+                    label = { Text("Brindes") }, // Rótulo "Posts"
                     selected = selectedTab == 1, // Define se este item está selecionado
                     onClick = { selectedTab = 1 } // Altera o estado para a aba de "Posts"
                 )

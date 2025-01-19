@@ -94,8 +94,15 @@ class PostViewModel: ViewModel() {
         viewModelScope.launch {
             try {
                 val updatedPost = CreatePostRequest(title, content)
-                RetrofitInstance.api.updatePost(postId, updatedPost)
-                fetchPosts()
+                val response = RetrofitInstance.api.updatePost(postId, updatedPost)
+
+                // Verifica se a resposta foi bem-sucedida
+                if (response != null) {
+                    println("Post atualizado com sucesso: $response")
+                    fetchPosts() // Recarrega os posts
+                } else {
+                    println("Falha ao atualizar o post.")
+                }
             } catch (e: Exception) {
                 e.printStackTrace()
             }
