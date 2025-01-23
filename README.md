@@ -40,6 +40,7 @@ Trabalho realizado em conjunto com [Mariana Pereira](https://github.com/Mariana-
 ## Módulo 3📱
 
 [Trabalho I - Requisições Web HTTP com RETROFIT](https://github.com/iaraslima/DevelopmentMobile/tree/master/ToastApp)
+
 [Trabalho II - MsgApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/zapzap)
 
 ***
