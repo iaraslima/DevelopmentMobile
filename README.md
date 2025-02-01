@@ -29,17 +29,19 @@ Atividade 11 - [TasksManagerApp](https://github.com/iaraslima/DevelopmentMobile/
 
 ***
 
-## Trabalho Prático - Módulo 3📱
-
-[Requisições Web HTTP com RETROFIT](https://github.com/iaraslima/DevelopmentMobile/tree/master/ToastApp)
-
-***
-
-## Trabalho I 📱📓✅
+## Trabalho 📱📓✅
 
 [Aprova Aí](https://github.com/Mariana-Pereiraa/Aprova-Ai)
 
 Trabalho realizado em conjunto com [Mariana Pereira](https://github.com/Mariana-Pereiraa)
+
+***
+
+## Módulo 3📱
+
+[Trabalho I - Requisições Web HTTP com RETROFIT](https://github.com/iaraslima/DevelopmentMobile/tree/master/ToastApp)
+
+[Trabalho II - MsgApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/zapzap)
 
 ***
 
