@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571593857900",
+    "project_id": "investidor-ce138",
+    "storage_bucket": "investidor-ce138.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571593857900:android:864504ebfc59ed745bb149",
+        "android_client_info": {
+          "package_name": "com.example.investidorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcV19s8hmVFxffVRD_xpFkixETZysvBMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
