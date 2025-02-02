@@ -49,7 +49,7 @@ Trabalho realizado em conjunto com [Mariana Pereira](https://github.com/Mariana-
 
 <h4 align="center">Universidade Federal do Ceará</h4>
 
-<h4 align="center">Aluna: Iara</h4>
+<h4 align="center">Aluna: <a href="https://www.linkedin.com/in/iara-lima-4a04a6291/">Iara</a> </h4>
 
 <h4 align="center">Professor: Victor Pinheiro</h4>
 
