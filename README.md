@@ -43,6 +43,8 @@ Trabalho realizado em conjunto com [Mariana Pereira](https://github.com/Mariana-
 
 [Trabalho II - MsgApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/zapzap)
 
+[Trabalho II - InvestidorApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/InvestidorApp)
+
 ***
 
 <h4 align="center">Universidade Federal do Ceará</h4>
