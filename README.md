@@ -43,7 +43,9 @@ Trabalho realizado em conjunto com [Mariana Pereira](https://github.com/Mariana-
 
 [Trabalho II - MsgApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/zapzap)
 
-[Trabalho II - InvestidorApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/InvestidorApp)
+[Trabalho III - InvestidorApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/InvestidorApp)
+
+[Trabalho IV - AuthApp](https://github.com/iaraslima/DevelopmentMobile/tree/master/AuthApp)
 
 ***
 
