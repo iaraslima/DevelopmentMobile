@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877005096334",
+    "project_id": "autentificacao-dbcd2",
+    "storage_bucket": "autentificacao-dbcd2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877005096334:android:6c841c4a789a7088a0d0df",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQM8KQZihIwaAKhgUMYFdtBOdp9NRj-EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

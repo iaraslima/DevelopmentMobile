@@ -4,9 +4,11 @@ plugins {
     id("com.google.gms.google-services")
     id("org.jetbrains.compose")
 }
+
 android {
     namespace = "com.example.investidorapp"
     compileSdk = 35
+
 
     defaultConfig {
         applicationId = "com.example.investidorapp"

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "877005096334",
+    "firebase_url": "https://autentificacao-dbcd2-default-rtdb.firebaseio.com",
+    "project_id": "autentificacao-dbcd2",
+    "storage_bucket": "autentificacao-dbcd2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877005096334:android:6c841c4a789a7088a0d0df",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877005096334-bp31b0taeejhtb4kaf0kal523cs9ra9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authapp",
+            "certificate_hash": "827901bb3b0418a685736719fdfeea265b7cafb2"
+          }
+        },
+        {
+          "client_id": "877005096334-648il4a8ltj5mkt8suoh8qrqee11urtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQM8KQZihIwaAKhgUMYFdtBOdp9NRj-EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877005096334-648il4a8ltj5mkt8suoh8qrqee11urtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
